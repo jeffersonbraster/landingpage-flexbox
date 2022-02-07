@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.logo h2 {
+  color: #fff;
+  font-size: 35px;
+}
+
+.logo span {
+  color: #1a7993;
+}
